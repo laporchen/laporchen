@@ -1,9 +1,6 @@
 <h1 align="center">Hi :), I'm Lapor Chen</h1>
 <h3 align="center">A student from National Taiwan Normal Univeristy</h3>
 
-- 🌱 I’m currently learning **anything if I need.**
-
-- 🌱 I'm learning in [Normal-OJ](https://github.com/Normal-OJ/Normal-OJ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
