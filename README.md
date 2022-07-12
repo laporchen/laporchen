@@ -1,4 +1,4 @@
-<h1 align="center">Hi :), I'm Lapor Chen</h1>
+<h1 align="center">Lapor Chen's Spaghetti Factory</h1>
 <h3 align="center">A student from National Taiwan Normal Univeristy</h3>
 I do random stuffs if I can come up with any.
 Or I just do leetcode.
