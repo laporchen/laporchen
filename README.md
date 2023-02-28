@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Lapor Chen</h1>
 <h3 align="center">A student from National Taiwan Normal Univeristy</h3>
-I do random stuffs if I can come up with any.
-Or I just do leetcode.
+I work on frontend stuff.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lapor?theme=nord&font=Lustria&ext=contest)
 
