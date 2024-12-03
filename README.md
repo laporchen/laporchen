@@ -1,8 +1,10 @@
 <h1 align="center">Hello, I'm Lapor Chen</h1>
-<h3 align="center">A student from National Taiwan Normal Univeristy</h3>
-I work on frontend stuff and do competitve programming sometimes.
+<h3 align="center">A guy does frontend stuffs</h3>
+I like to do frontend stuffs, they are fun.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lapor?theme=nord&font=Lustria&ext=contest)
+I work with Vue 3 and Nuxt 3 most of the time, sometimes React and NextJS.
+
+Learn more about me [here](https://lapor.dev/)
 
 
 <h3 align="left">Connect with me:</h3>
